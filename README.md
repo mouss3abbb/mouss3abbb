@@ -15,6 +15,12 @@
 - Linux 🐧  
   
 
+- Blender 3D 🎥  
+  
+
+- Photography 📸  
+  
+
 <br/>  
 
 
@@ -70,7 +76,7 @@
 <br/>  
 
 
-  
+
 
 <br/>  
 
