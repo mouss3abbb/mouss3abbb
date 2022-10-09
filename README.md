@@ -9,7 +9,7 @@
 - Competitive Programming 🚀  
   
 
-- C++ and Java 💻  
+- C++, Java, Kotlin 💻  
   
 
 - Linux 🐧  
