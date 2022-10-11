@@ -3,7 +3,7 @@
 </div>  
   
 
-### Abdullah Aly  
+### Abdullah Kamshishi
   
 
 - Competitive Programming 🚀  
@@ -12,7 +12,7 @@
 - C++, Java, Kotlin 💻  
   
 
-- Linux 🐧  
+- Linux, Git 🐧  
   
 
 - Blender 3D 🎥  
