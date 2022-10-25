@@ -3,6 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mouss3abbb&label=Profile%20views&color=0e75b6&style=flat" alt="mouss3abbb" /> </p>
 
+- 🌱 I’m currently learning **Android RoomDB and API Development**
+
+- 📄 Know about my experiences [https://docs.google.com/document/d/1ipbQV6vBbPzG8IxPpWycwrL1KZykW-_R/edit?usp=sharing&ouid=108151960143804409608&rtpof=true&sd=true](https://docs.google.com/document/d/1ipbQV6vBbPzG8IxPpWycwrL1KZykW-_R/edit?usp=sharing&ouid=108151960143804409608&rtpof=true&sd=true)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/abdullah-aly-967635211/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullah-aly-967635211/" height="30" width="40" /></a>
