@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abdullah</h1>
-<h3 align="center">A CS student interested in Android development and Backend</h3>
+<h3 align="center">A CS student interested in Android development and Competetive programming</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mouss3abbb&label=Profile%20views&color=0e75b6&style=flat" alt="mouss3abbb" /> </p>
 
-- 🌱 I’m currently learning **Android RoomDB and API Development**
-
-- 📄 Know about my experiences [https://docs.google.com/document/d/1ipbQV6vBbPzG8IxPpWycwrL1KZykW-_R/edit?usp=sharing&ouid=108151960143804409608&rtpof=true&sd=true](https://docs.google.com/document/d/1ipbQV6vBbPzG8IxPpWycwrL1KZykW-_R/edit?usp=sharing&ouid=108151960143804409608&rtpof=true&sd=true)
+- 🌱 I’m currently practicing **Some Real Android apps**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
