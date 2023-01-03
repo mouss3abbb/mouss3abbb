@@ -4,6 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mouss3abbb&label=Profile%20views&color=0e75b6&style=flat" alt="mouss3abbb" /> </p>
 
 - 🌱 I’m currently practicing **Some Real Android apps**
+- ✨ Migrated to Jetpack Compose 
+- 🖥 Learning Godot Engine in future hopefully 
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
