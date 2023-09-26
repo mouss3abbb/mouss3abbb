@@ -6,7 +6,7 @@
 
 
 ### About Me  
-### <div align="center">I'm Abdullah (PandaX) | Junior Mobile Developer | Competitive Programmer</div>  
+### <div align="center">I'm Abdullah (PandaX), Backend Developer (Golang/NodeJS), Kotlin Developer (XML, Jetpack Compose), Competitive Programmer</div>  
   
 
 - 🔭 I’m interested in Open Source development  
@@ -15,7 +15,8 @@
 - 🌱 I’ve experience in Mobile development (Java, Kotlin, Jetpack Compose, Flutter)  
   
 
-- ❓ Also a passionate NodeJS developer 
+- 🌱 Shifted to backend development using Golang / NodeJS
+
   
   
 
